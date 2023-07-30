@@ -1,4 +1,4 @@
-let iAm = 'я'
+let iAm = "я"
 let krasavchik = "красавчик!";
 let iAmUp = iAm.toLocaleUpperCase();
 
