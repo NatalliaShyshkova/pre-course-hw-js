@@ -9,5 +9,5 @@ passport2.name = "Ivan";
 
 
 
-console.log(passport2)
-console.log(passport)
+console.log(passport2.name)
+console.log(passport.name)
