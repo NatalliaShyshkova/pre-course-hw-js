@@ -3,5 +3,7 @@ function createColorString() {
     return colors.filter(el => el === "черный" || el === "красный" || el === "желтый").join('-')
 }
 
+
+
 console.log(createColorString());
 
